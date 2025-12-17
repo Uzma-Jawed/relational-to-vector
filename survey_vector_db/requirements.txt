@@ -1,0 +1,5 @@
+pymilvus
+sentence-transformers
+pandas
+sqlite3
+numpy
